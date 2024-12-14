@@ -11,7 +11,7 @@ Este proyecto demuestra conceptos básicos de desarrollo de aplicaciones móvile
 - **Temporizador**: Cuenta regresiva antes de mostrar el resultado.
 - **Splash screens**: Introducción fluida al juego con pantallas de bienvenida.
 
-## 📸 Capturas de Pantalla
+## 📸 Vista Previa
 
 <div align="center">
     <img src="assets/img1.png" alt="Splash Screen" width="150">
